@@ -25,3 +25,9 @@ In order to measure the performance of our coding, we included a display to show
 ![2017 Stock Results Refactored](https://github.com/Jeffstr00/stock-analysis/blob/main/VBA_Challenge_2017.png) ![2018 Stock Results Refactored](https://github.com/Jeffstr00/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary
+
+### Refactoring in General
+
+While the refactoring of the code did not change the results or the output one bit, it is still an important practice to use in coding.  Refactoring is when you go back and make code either more efficient or even just easier to follow.  Making code run more efficiently can end up saving time, resources, and ultimately money in the long run.  Even slight improvements can be magnified and add up when they are repeated possibly millions of times.  Making code easier to read, understand, and follow can pay dividends either when you have to go back and work with your code again or especially when other people work with your code.  However, refactoring isn't completely without its downsides.  It can be rather time consuming, so if you don't end up working with this code again, that time was pretty much wasted.  For instance, if we refactored this code simply to save Steve and his parents a fraction of a second, it would be hard to argue that was a good use of time.  It's also possible that you could accidentally break code (and not realize it) when making changes.  That's why it is important to go back and check to make sure that your code still runs as intended, even if the inputs change.
+
+### Refactoring in this Case
