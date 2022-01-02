@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are in charge of assisting Steve, a recent finance graduate, with analyzing green stocks in order to help his parents hopefully make a good investment.  Their current plan is to invest in a single stock simply based on the fact that they like helping the environment and its ticker symbol coincides with the location of their first date.  In order to see if that is a good idea or not, we looked at two years' worth of data on a dozen different green stocks, which covered thousands of data points.  Since we were dealing with such a large mountain of information, we used Excel and it's Visual Basic editor to run computations for us and then display useful information that can hopefully help Steve and his parents made a good financial decision.
+We are in charge of assisting Steve, a recent finance graduate, with analyzing green stocks in order to help his parents hopefully make a good investment.  Their current plan is to invest in a single stock simply based on the fact that they like helping the environment and its ticker symbol coincides with the location of their first date.  In order to see if that is a good idea or not, we looked at two years' worth of data on a dozen different green stocks, which covered thousands of data points.  Since we were dealing with such a large mountain of information, we used Excel and its Visual Basic editor to run computations for us and then display useful information that can hopefully help Steve and his parents made a good financial decision.
 
 ## Results
 
